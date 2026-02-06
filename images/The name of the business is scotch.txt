@@ -1,0 +1,43 @@
+The name of the business is scotch holdings please change that then replace the logo and all the hero sections with images placeholders.
+
+The services offered are as follows:
+New Glazing of Steel and Wooden Frames
+Repairs of Glass and Putty
+Custom Shop-fronts (Aluminium and Glass)
+Flash & Double Glazing Solutions
+Folding, Palace & Sliding Doors (Aluminium and Glass)
+Frameless Showers, Skylights & Mirrors (Custom cutting and installation)
+Aluminium Windows, Aluminium Doors & Aluminium Gates
+Frameless Glass & Stainless Steel Balustrades and Components
+Office Partitions
+Spigot and Standoff Balustrading
+Slot/Grooving Frameless Glass Balustrading
+Swivel Junction Horizontal Stainless Steel Balustrade
+Beading Garage Doors
+
+This is what should be listed for "Why Choose Us?":
+Experience & Expertise: Decades of industry knowledge.
+Quality Materials: We use only high-grade glass and aluminium.
+Customer Focused: Dedicated to your satisfaction from start to finish.
+Custom Solutions: Tailored designs to fit your unique requirements.
+Reliable & Timely: We respect your time and deadlines.
+
+Please update those 2 fields with the provided info.
+
+I have image on file for the following projects:
+Beading Garage Doors
+Commercial Shop-front
+Frameless Shower Enclosure
+Frameless Balustrade
+Aluminium Windows and Doors
+Office Partitions
+Aluminium Gates
+Swivel Junction Horizontal Stainless Steel Balustrade
+Slot/Grooving Frameless Glass Balustrading
+Standoff Balustrading
+Spigot Balustrading
+Flash Glazing Garage Doors
+
+Please replace the placeholder projects with these(don't forget the image placeholders)
+
+And lastly, on the home page please remove the review section, add an "about us" section before "our services"(with a descriptive paragraph and an image placeholder next to it) and the carousel in the featured work section is not working.
