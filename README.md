@@ -92,10 +92,10 @@ Place in `images/gallery/` folder:
 
 2. **Update Contact Information**
    Replace placeholder contact details in all HTML files:
-   - Phone number: `+64211234567`
-   - Email: `info@precisionglass.co.nz`
-   - Address: `123 Industrial Ave, Auckland 1010`
-   - WhatsApp link: `https://wa.me/64211234567`
+   - Phone number: `+27 83 237 8815 / +27 73 907 9040`
+   - Email: `chrisndlovu@gmail.com`
+   - Address: `5234 Fleet Cres, Kaalfontein, Midrand 1632`
+   - WhatsApp link: `https://wa.me/27832378815`
 
 3. **Google Maps**
    Update the iframe `src` in `contact.html` with your actual Google Maps embed URL.
